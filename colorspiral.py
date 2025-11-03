@@ -27,4 +27,5 @@ def cspiral(sides=12, size=360, x=0, y=0):
 def writeToTerminal(msgIbi):
     """Writes a message to the terminal"""
     print(msgIbi)
+    print("mak added this code")
 cspiral()
