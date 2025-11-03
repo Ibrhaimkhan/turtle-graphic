@@ -25,7 +25,7 @@ def cspiral(sides=12, size=360, x=0, y=0):
         # writeToTerminal(f"Drawing side with color ")
         turtle.time.sleep(0.5)
 def writeToTerminal(msgIbi):
-    """Writes a message to the terminal"""
+    """Writes a message to the terminalaaa"""
     print(msgIbi)
     print("mak added this code")
     print("IK added this code and the code doesn't need optimization")
