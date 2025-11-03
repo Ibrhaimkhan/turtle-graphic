@@ -28,4 +28,5 @@ def writeToTerminal(msgIbi):
     """Writes a message to the terminal"""
     print(msgIbi)
     print("mak added this code")
+    print("IK added this code")
 cspiral()
